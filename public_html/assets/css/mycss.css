@@ -1,0 +1,31 @@
+#a1 {
+    background: url("images/overlay.png"), url("../../assets/images/audios/a1.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, bottom center;
+    background-repeat: repeat, no-repeat;
+}
+
+#a2 {
+    background: url("images/overlay.png"), url("../../assets/images/audios/a2.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, bottom center;
+    background-repeat: repeat, no-repeat;
+}
+
+#a3 {
+    background: url("images/overlay.png"), url("../../assets/images/audios/a3.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, bottom center;
+    background-repeat: repeat, no-repeat;
+}
+
+#a4 {
+    background: url("images/overlay.png"), url("../../assets/images/audios/a4.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, bottom center;
+    background-repeat: repeat, no-repeat;
+}
