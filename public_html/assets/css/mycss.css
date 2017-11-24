@@ -29,3 +29,14 @@
     background-position: top left, bottom center;
     background-repeat: repeat, no-repeat;
 }
+.titulo {
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke: 2px black;
+    text-shadow: 1px 2px 3px #666;
+}
+
+.texto {
+    color: white;
+    background-color: rgba(0, 0, 0, .5); ;
+    padding: 30px;
+} 
